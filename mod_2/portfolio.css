@@ -3,13 +3,17 @@ body {
 
   background-color: rgb(59, 77, 77);
   color:white;
+  position: relative;left: 25px;
+  font-size: 18px;
+  font-family: 'sans-serif';
+  margin-left: 15px;
 }
 /* darkslategrey */
 
-p {
+/* p {
     font-family: 'Franklin Gothic Medium';
     font-size: 12px;
-  }
+  } */
 
   a:link, a:visited {
     /* background-color: #6c6bac; */
@@ -27,15 +31,15 @@ p {
     width:80%;
   }
   table, th, td {
-    border: 1px solid black;
+    border: 1px solid white;
     border-collapse: collapse;
   }
   th, td {
     padding: 15px;
     text-align: left;
   }
-  th {
+  /* th {
     background-color: rgb(12, 2, 37);
     color: white;
   }
-  
+   */
