@@ -1,0 +1,124 @@
+
+body {
+  background-image: url('https://ak3.picdn.net/shutterstock/videos/6518999/thumb/1.jpg?i10c=img.resize(height:160)');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  color:white;
+  position: relative;left: 25px;
+  font-size: 18px;
+  font-family: monospace;
+  /* font-family: 'sans-serif';  */
+  margin-left: 15px;
+}
+pre {
+    font-size: 20px;
+}
+/* .city{
+      font-family: cursive;
+} */
+
+.content{
+  padding-left:50px;
+}
+
+.button {
+  background-color: #0a0a11;
+  border: 2px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  /* cursor: pointer; */
+}
+/* darkslategrey */
+
+/* p {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 12px;
+    a:link, a:visited
+  } */
+
+  
+    /* background-color: #6c6bac; */
+    /* .buttons{ 
+
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  } */
+  /* a:hover, a:active {
+    background-color: red;
+  } */
+  
+  table {
+    font-size: large;
+    width:80%;
+  }
+  table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+  /* th {
+    background-color: rgb(12, 2, 37);
+    color: white;
+  }
+   */
+   /* contact page icons */
+   .fa {
+    padding: 20px;
+    font-size: 30px;
+    /* height: 50px; */
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 5px;
+  }
+  
+   
+  .fa:hover {
+      opacity: 0.7
+      ;
+  }
+  .fa-github {
+    background: black;
+    color: white;
+  }
+    
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-instagram {
+    background: rgb(136, 7, 50);
+    color: white;
+  }
+/* bar in techincal skills */
+* {box-sizing: border-box}
+
+.container {
+  width: 80%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: rgb(216, 144, 216)}
+.css {width: 80%; background-color:papayawhip;}
+.python {width: 75%; background-color:rgb(233, 70, 97);}
+.postgresql {width: 60%; background-color: #808080;}
+.java {width: 50%; background-color:  #2196F3;}
